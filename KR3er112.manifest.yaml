@@ -1,0 +1,481 @@
+canonical_identifier: bkk:krp/KR3er112/v1
+canonical_location: https://kanripo.org/bkk/KR3er112/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 中風斠詮
+  identifiers:
+    krp: KR3er112
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat02200
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er112.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3er112_000.yaml, hash: 'sha256:799e329949a7acc8b3e0852249fc95a887ff030606cf491eb27d86ed1b5dceb3'}
+  - {seq: 2, filename: KR3er112_002.yaml, hash: 'sha256:8404281bc90f921c000207ec694552684b9487aa7fd5c796c55aad5ad700bf0c'}
+  - {seq: 3, filename: KR3er112_003.yaml, hash: 'sha256:fa18b1a2973c79527017b87909543e8cbf32df0cd345b64663518e1946e04beb'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er112_000.markers.yaml, hash: 'sha256:d0f77fb9f22f645402d3caeabe13ed221b181c635df13102286e90e554c071f5'}
+  - {seq: 2, role: markers, filename: assets/KR3er112_002.markers.yaml, hash: 'sha256:766bde190abe1e35836d4dc7f6b5caf66088226c2192d7138ead6ed8c96d52d1'}
+  - {seq: 3, role: markers, filename: assets/KR3er112_003.markers.yaml, hash: 'sha256:9ccce53be9e9e21b17a3ea58f9b040c0f0605cc529d2e5b5b8536df6f3f863fd'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er112_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 2082
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er112_jc_000-d3.h1s1
+    span:
+    - front
+    - 2082
+    - 6463
+  label: 中風斠詮自序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er112_jc_000-d3d14
+    span:
+    - front
+    - 5417
+    - 6463
+  label: 中風斠詮後序
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 42742
+  label: 中風斠詮卷第一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4d2
+    span:
+    - body
+    - 7
+    - 9738
+  label: 中風總論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d2d2
+    span:
+    - body
+    - 11
+    - 791
+  label: 第一節論風之為病以外因內因為兩大綱
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d2d3
+    span:
+    - body
+    - 791
+    - 4668
+  label: 第二節論中風之病漢唐治法皆是外因金元辨證乃識內因
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d2d4
+    span:
+    - body
+    - 4668
+    - 8921
+  label: 第三節論昏瞀猝僕之中風無一非內因之風
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d2d5
+    span:
+    - body
+    - 8921
+    - 9738
+  label: 第四節論醫學家類中之病名不如徑作內風之明顯
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4d3
+    span:
+    - body
+    - 9738
+    - 12059
+  label: 第五節論甲乙經之中風本是外因而始有以內風之病認作外風之誤
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4d4
+    span:
+    - body
+    - 12059
+    - 42742
+  label: 第六節論仲景傷寒六經皆有中風本言外感之風而後人誤以內動之風附會六經遂有中風中經絡一說
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d6
+    span:
+    - body
+    - 14736
+    - 19625
+  label: 第七節論金匱之中風本言外因而所敘各證皆是內因之誤
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d7
+    span:
+    - body
+    - 19625
+    - 20306
+  label: 第八節論續命諸方古人本以專治外因之寒風而已並用寒涼可見古時亦是肝火內燔之證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d8
+    span:
+    - body
+    - 20306
+    - 21725
+  label: 第九節論古書所謂真中風之病必不多有
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d9
+    span:
+    - body
+    - 21725
+    - 37907
+  label: 第十節論張伯龍之類中秘旨
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d10
+    span:
+    - body
+    - 37907
+    - 39582
+  label: 第十一節論張伯龍之所謂陽虛類中
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d11
+    span:
+    - body
+    - 39582
+    - 41069
+  label: 第十二節論今人竟以昏瞀猝僕為腦病之不妥
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d12
+    span:
+    - body
+    - 41069
+    - 41681
+  label: 第十三節論時病雜病亦最多氣血沖腦之證
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d4.d4d13
+    span:
+    - body
+    - 41681
+    - 42742
+  label: 第十四節論陰寒之氣上衝亦能激動腦神經而失知覺運動發為昏厥暴僕痙直瘛瘲等症
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.h1s1
+    span:
+    - body
+    - 42742
+    - 54085
+  label: 卷第二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5d2
+    span:
+    - body
+    - 42745
+    - 54085
+  label: 內風暴動之脈因證治
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d2
+    span:
+    - body
+    - 42754
+    - 43205
+  label: 第一節脈因證治總論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d3
+    span:
+    - body
+    - 43205
+    - 45436
+  label: 第二節脈法總論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d4
+    span:
+    - body
+    - 45436
+    - 46061
+  label: 第三節治法總論
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d5
+    span:
+    - body
+    - 46061
+    - 48404
+  label: 第四節論閉證宜開
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d6
+    span:
+    - body
+    - 48404
+    - 49423
+  label: 第五節論脫證宜固
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d7
+    span:
+    - body
+    - 49423
+    - 51134
+  label: 第六節論肝陽宜於潛鎮
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d8
+    span:
+    - body
+    - 51134
+    - 51983
+  label: 第七節論痰涎宜於開泄
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d9
+    span:
+    - body
+    - 51983
+    - 52512
+  label: 第八節論氣逆宜於順降
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d10
+    span:
+    - body
+    - 52512
+    - 53003
+  label: 第九節論心液肝陰宜於培養
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d11
+    span:
+    - body
+    - 53003
+    - 53324
+  label: 第十節論腎陰漸宜滋填
+  type: section
+  level: 3
+- ref:
+    seq: 2
+    marker_id: KR3er112_jc_002-d5.d2d12
+    span:
+    - body
+    - 53324
+    - 54085
+  label: 第十一節論通經宣絡
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.h1s1
+    span:
+    - body
+    - 0
+    - 32304
+  label: 卷第三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6d2
+    span:
+    - body
+    - 3
+    - 32304
+  label: 古方平議
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d2
+    span:
+    - body
+    - 7
+    - 891
+  label: 第一節古方總論
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d3
+    span:
+    - body
+    - 891
+    - 2113
+  label: 第二節開關之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d4
+    span:
+    - body
+    - 2113
+    - 5387
+  label: 第三節固脫之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d5
+    span:
+    - body
+    - 5387
+    - 9942
+  label: 第四節潛鎮之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d6
+    span:
+    - body
+    - 9942
+    - 13276
+  label: 第五節化痰之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d7
+    span:
+    - body
+    - 13276
+    - 14063
+  label: 第六節順氣之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d8
+    span:
+    - body
+    - 14063
+    - 21196
+  label: 第七節清熱之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d9
+    span:
+    - body
+    - 21196
+    - 23576
+  label: 第八節滋養之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d10
+    span:
+    - body
+    - 23576
+    - 26447
+  label: 第九節通絡之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d11
+    span:
+    - body
+    - 26447
+    - 27401
+  label: 第十節風家服食之方
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er112_jc_003-d6.d2d12
+    span:
+    - body
+    - 27401
+    - 32304
+  label: 第十一節通治中風方之辨正
+  type: section
+  level: 3
+hash: sha256:23ebbc334755a21631a6c9375740dff45bb21ee7652535611323fb41904a3fb9
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
