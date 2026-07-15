@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3er112/v1
 canonical_location: https://kanripo.org/bkk/KR3er112/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 中風斠詮
   identifiers:
@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er112_000.yaml, hash: 'sha256:3d3e5eb8adb071b2b3c94b5e7cb33701c18d45e72b3e67716a9f60165b42ee18'}
-  - {seq: 2, filename: KR3er112_002.yaml, hash: 'sha256:a1683a1fdf7ae0757cb0832e297a80fb991d1f4678616c91163fe30ee6f6ee5a'}
-  - {seq: 3, filename: KR3er112_003.yaml, hash: 'sha256:8b9758c759ed93372f6ab0da16b8d9e1e3083ccdfa26aa062607f9183682dd8f'}
+  - {seq: 0, filename: KR3er112_000.yaml, hash: 'sha256:0d82600afd740ac6756e23e4bc43e0c09b136e52b461a338e7d662641c9e0883'}
+  - {seq: 2, filename: KR3er112_002.yaml, hash: 'sha256:a8b1cdfad56c7f1bdf1c1f25cba4f2498a3f4f0459f7bcbbcf005fbac80648c6'}
+  - {seq: 3, filename: KR3er112_003.yaml, hash: 'sha256:3b4bf0a1a3c66af5f55576f4ddafa93b0cc42b73d14efe9c0cc5345d5b5aa9d2'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er112_000.markers.yaml, hash: 'sha256:000838053eac13ddd3326a03605c84cf5147a35d0b0590a03cb0222b341e34dd'}
-  - {seq: 2, role: markers, filename: assets/KR3er112_002.markers.yaml, hash: 'sha256:574677938c635055039d3c9a45e9688b3c375e8b8acbf1d8341264458d8eb382'}
-  - {seq: 3, role: markers, filename: assets/KR3er112_003.markers.yaml, hash: 'sha256:fad4685f9e0ef5f4be29cfe4ef3d995643a22dfcc14114a705563a4a0fe11369'}
+  - {seq: 0, role: markers, filename: assets/KR3er112_000.markers.yaml, hash: 'sha256:1b80fa9c0ace3c38fc272c25476f4cee1e19206fc9215ec10c5347df8a747e17'}
+  - {seq: 2, role: markers, filename: assets/KR3er112_002.markers.yaml, hash: 'sha256:8c7cd29034fcd62ae4fa9e21d38cbe4278f0e3bee31fcbd1d21fb82ff5ba2c4e'}
+  - {seq: 3, role: markers, filename: assets/KR3er112_003.markers.yaml, hash: 'sha256:743158771b4435ff48ca900b0b0e8070a6478e1bd9ffe0cd44b8169b7b19d39e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -475,4 +475,7 @@ table_of_contents:
   label: 第十一節通治中風方之辨正
   type: section
   level: 3
-hash: sha256:fafd08db7a7a8d387436e5bb08c22291f6037704260558015ff39ff16eb05e15
+hash: sha256:0636dac0ce8bd1308719f71de543153112c603c64f390444bf6312a78153a1b4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
