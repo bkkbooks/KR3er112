@@ -22,8 +22,8 @@ assets:
   - {seq: 3, filename: KR3er112_003-jc.yaml, hash: 'sha256:8b9758c759ed93372f6ab0da16b8d9e1e3083ccdfa26aa062607f9183682dd8f'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3er112_000-jc.markers.yaml, hash: 'sha256:4ffb61a4a3f6efb3500cbd1769f8a7e6c6e6ef3f0ab54fb6b86b24a17e7a72c3'}
-  - {seq: 2, role: markers, filename: assets/KR3er112_002-jc.markers.yaml, hash: 'sha256:54bf465cf5a5cbf0869ff2070fb95ea368aa103a8f78828e90875e411cb544a6'}
-  - {seq: 3, role: markers, filename: assets/KR3er112_003-jc.markers.yaml, hash: 'sha256:50ddb933492ad8c98f4e61a6ff919c42ed0510cfebe26e85f6a7661b1e395302'}
+  - {seq: 2, role: markers, filename: assets/KR3er112_002-jc.markers.yaml, hash: 'sha256:7a938a05d034654fa55b2fb80fe7b98775da91f4aaed75ee30383956d6f23817'}
+  - {seq: 3, role: markers, filename: assets/KR3er112_003-jc.markers.yaml, hash: 'sha256:18c2f718c75ab69e147eedbb88fe825ee9dded600ac98536d0000eb2c85df353'}
 table_of_contents:
 - ref:
     seq: 0
@@ -475,4 +475,4 @@ table_of_contents:
   label: 第十一節通治中風方之辨正
   type: section
   level: 3
-hash: sha256:3f44f0dc8bfe5ed8cc49efe5afb70937f636d7d0e813461451b68991207d3896
+hash: sha256:83632c6818b055af5222e564e9f31fefc56f6071cf87654bf56704f719cf0e2f
